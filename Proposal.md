@@ -12,7 +12,6 @@ Animal Shelter Intake and Outcome from the Sonoma County, CA will be utilized. (
 
 * Name of the animal
 * Type of animal
-
 * Breed
 * Color
 * Sex
@@ -26,7 +25,7 @@ Animal Shelter Intake and Outcome from the Sonoma County, CA will be utilized. (
 With the current data, there are 8 outcome types, and they are:
 
 * Adoption
-* Return to wwner
+* Return to owner
 * Transfer to a different shelter
 * Euthanized
 * Appointment is made to interact with the animals
@@ -43,7 +42,7 @@ I would like to make the target of the project to two groups:
 
 **Tools**
 
-* Pandas for data cleaning
+* Pandas for data cleaning and EDA
 * Python packages for classification models for model building
 * Matplotlib or Tableau for potential visualizaiton
 
