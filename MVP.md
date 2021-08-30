@@ -6,6 +6,8 @@ Baseline was performed with logistic regression with 2 features, 4 features, and
 
 Below is the ROC curves for the three subsets.
 
+![ROC Curve](https://github.com/AWfarmD/Classification/blob/main/Figure/Baseline%20ROC%20Curve.png?raw=true)
+
 My plan next is to build other models with all features and compare which one performs the best, and then further tuning the model to see if it can perform better.
 
 
