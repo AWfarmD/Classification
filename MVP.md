@@ -10,6 +10,8 @@ Baseline was performed with logistic regression with the following features and 
 
 Below is the ROC curves of different models:
 
+![roc curves](https://github.com/AWfarmD/Classification/blob/main/Figure/ROC%20Curves%20-%20Models.png+?raw=true)
+
 With random forest performs the best and logistic regression comes in second, hyperparameter tunings will be done on these two models to see if the perfromance metrics can be better.
 
 
