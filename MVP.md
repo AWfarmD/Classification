@@ -12,7 +12,7 @@ Baseline was performed with logistic regression with the following features and 
 
 Below is the ROC curves of different models:
 
-
+![Baseline ROC Curves - Models](https://github.com/AWfarmD/Classification/blob/main/Figure/Baseline%20ROC%20Curves%20-%20Models.png?raw=true)
 
 With random forest performs the best, my next step will be tuning its hyperparameters and see if better accuracy score can be obtained. And the feature importance will be explained with SHAP values.
 
